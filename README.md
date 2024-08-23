@@ -19,11 +19,11 @@ Este proyecto es una aplicación gráfica desarrollada en Python utilizando la l
 
 1. **Clona el repositorio**:
    
-    git clone https://github.com/tu_usuario/sistema-facturacion-restaurante.git
+    git clone https://github.com/tu_usuario/mi_restaurante.git
 
 3. **Navega al directorio del proyecto**:
     
-    cd sistema-facturacion-restaurante
+    cd mi_restaurante
     
 4. **Ejecuta la aplicación**:
     
@@ -39,7 +39,7 @@ Este proyecto es una aplicación gráfica desarrollada en Python utilizando la l
 
 ## Estructura del Proyecto
 
-- `sistema_facturacion.py`: Archivo principal que contiene todo el código de la aplicación.
+- `mi_restaurante.py`: Archivo principal que contiene todo el código de la aplicación.
 - `recibos/`: Directorio donde se guardan los recibos generados en formato `.txt`.
 
 
