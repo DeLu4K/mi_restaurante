@@ -18,17 +18,18 @@ Este proyecto es una aplicación gráfica desarrollada en Python utilizando la l
 ## Instrucciones de Uso
 
 1. **Clona el repositorio**:
-   
 
-3. **Navega al directorio del proyecto**:
+   https://github.com/DeLu4K/mi_restaurante.git
+
+2. **Navega al directorio del proyecto**:
     
     cd mi_restaurante
     
-4. **Ejecuta la aplicación**:
+3. **Ejecuta la aplicación**:
     
     python mi_restaurante.py
     
-5. **Utiliza la aplicación**:
+4. **Utiliza la aplicación**:
    - Marca las casillas para seleccionar los ítems que deseas añadir al pedido.
    - Ingresa la cantidad correspondiente para cada ítem.
    - Presiona `Total` para calcular el costo total incluyendo impuestos.
