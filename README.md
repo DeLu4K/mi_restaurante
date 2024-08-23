@@ -19,7 +19,6 @@ Este proyecto es una aplicación gráfica desarrollada en Python utilizando la l
 
 1. **Clona el repositorio**:
    
-    git clone https://github.com/tu_usuario/mi_restaurante.git
 
 3. **Navega al directorio del proyecto**:
     
